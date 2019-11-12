@@ -13,3 +13,9 @@ So I recently purchased a new homelab to safely study securirty, networking and 
 
 ## Technical Requirements:
 
+
+
+## References:
+
+- `netdata`: https://github.com/netdata/netdata
+- `dockprom`: https://github.com/stefanprodan/dockprom
